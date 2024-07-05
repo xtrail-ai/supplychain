@@ -1,4 +1,4 @@
-**introducing the Largest Public Dataset for Llama Fine-Tuning**
+**introducing the Largest Public Dataset**
 We are thrilled to announce the release of the largest dataset available for public use to fine-tune the Llama model. This comprehensive dataset, focused on supply chain data, is now freely accessible on Hugging Face for researchers, developers, and AI enthusiasts to utilize in their projects.
 
 Key Features
